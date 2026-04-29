@@ -5,3 +5,4 @@ print("장우주2")print
 3
 4
 print("인공지능공학과")
+print("ㅎ")
